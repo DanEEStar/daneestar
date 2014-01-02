@@ -1,6 +1,8 @@
 # Kurse
 
-[Class Central](https://www.class-central.com/) Auflistung von allen Kursen
+- [Class Central](https://www.class-central.com/) Auflistung von allen Kursen
+- [Course Buffet](http://www.coursebuffet.com/) Weitere Auflistung von Kursen
+
 
 ## edx.org
 - [Linear Algebra - Foundations to Frontiers] (https://www.edx.org/course/utaustinx/utaustinx-ut-5-01x-linear-algebra-1162) (15. Jan 2014 16 Wochen)
