@@ -7,7 +7,6 @@
 - [Sexy Beast](http://www.imdb.com/title/tt0203119/)
 - [Gomorrah](http://www.imdb.com/title/tt0929425/)
 - [The Naked City](http://www.imdb.com/title/tt0040636/)
-- [Following](http://www.imdb.com/title/tt0154506/)
 - [Room 237](http://www.imdb.com/title/tt2085910/) About the Movie Shining
 - [The Kid with a Bike](http://www.imdb.com/title/tt1827512/)
 - [The Conversation](http://www.imdb.com/title/tt0071360/)
@@ -16,3 +15,11 @@
 - [Hoop Dreams](http://www.imdb.com/title/tt0110057/)
 - [Undefeated](http://www.imdb.com/title/tt1860355/)
 - [Glengarry Glen Ross](http://www.imdb.com/title/tt0104348/)
+- [Pi](http://www.imdb.com/title/tt0138704/)
+- [Primer](http://www.imdb.com/title/tt0390384/)
+
+# seen
+
+## [Following](http://www.imdb.com/title/tt0154506/)
+
+A film by Batman director Christopher Nolan. It is a new film but shot in Black and White, a neo Noir film. It is a interwovem story about a burglar who is followed by a writer with an interesting ending.
