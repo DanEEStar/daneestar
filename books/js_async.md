@@ -1,5 +1,7 @@
 # Async JavaScript
 
+[Amazon Link](http://www.amazon.com/Async-JavaScript-Responsive-Pragmatic-Express-ebook/dp/B00AKM4RVG/)
+
 ## Chapter 1
 
 ### 1.1 Scheduling Events
