@@ -32,3 +32,4 @@
 - [Windows Store Games with the Platformer Game Starter Kit](http://pluralsight.com/training/Courses/TableOfContents/building-windows8-games-platform-starter-kit)
 - [WinJS Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/winjs-fundamentals)
 - [Beyond the Basics in Windows Phone 8](http://pluralsight.com/training/Courses/TableOfContents/beyond-basics-windows-phone8)
+- [http://www.pluralsight.com/training/Courses/TableOfContents/real-time-web-applications](http://www.pluralsight.com/training/Courses/TableOfContents/real-time-web-applications)
