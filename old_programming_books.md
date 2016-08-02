@@ -23,3 +23,4 @@
 * [Apprenticeship Patterns](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382/)
 * [Expert C Programming](http://www.amazon.com/Expert-Programming-Peter-van-Linden/dp/0131774298/)
 * [The Computational Beauty of Nature](http://www.amazon.com/The-Computational-Beauty-Nature-Explorations/dp/0262561271/) 
+* [Turtle Geometry: The Computer as a Medium for Exploring](https://www.amazon.com/Turtle-Geometry-Computer-Medium-Exploring/dp/0262010631) DIUF 1.8.3 TIB 5224
